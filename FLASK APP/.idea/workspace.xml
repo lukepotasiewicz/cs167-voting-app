@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdd55dd3-ce3d-46ef-aab9-3d3dfe3518b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZUZ9fOkRY8tqVWmNhpb9w1e6H5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="flask-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Luke\PycharmProjects\flask-test\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdd55dd3-ce3d-46ef-aab9-3d3dfe3518b1" name="Default Changelist" comment="" />
+      <created>1584895483208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584895483208</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2734" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585161138640">
+      <screen x="2560" y="-853" width="1440" height="2520" />
+    </state>
+    <state x="2734" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.-853.1440.2520@2560.-853.1440.2520" timestamp="1585161138640" />
+    <state x="3060" y="163" key="FileChooserDialogImpl" timestamp="1585161136022">
+      <screen x="2560" y="-853" width="1440" height="2520" />
+    </state>
+    <state x="3060" y="163" key="FileChooserDialogImpl/0.0.2560.1400/2560.-853.1440.2520@2560.-853.1440.2520" timestamp="1585161136022" />
+    <state width="1419" height="770" key="GridCell.Tab.0.bottom" timestamp="1585161150957">
+      <screen x="2560" y="-853" width="1440" height="2520" />
+    </state>
+    <state width="1419" height="770" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.-853.1440.2520@2560.-853.1440.2520" timestamp="1585161150957" />
+    <state width="1419" height="770" key="GridCell.Tab.0.center" timestamp="1585161150957">
+      <screen x="2560" y="-853" width="1440" height="2520" />
+    </state>
+    <state width="1419" height="770" key="GridCell.Tab.0.center/0.0.2560.1400/2560.-853.1440.2520@2560.-853.1440.2520" timestamp="1585161150957" />
+    <state width="1419" height="770" key="GridCell.Tab.0.left" timestamp="1585161150957">
+      <screen x="2560" y="-853" width="1440" height="2520" />
+    </state>
+    <state width="1419" height="770" key="GridCell.Tab.0.left/0.0.2560.1400/2560.-853.1440.2520@2560.-853.1440.2520" timestamp="1585161150957" />
+    <state width="1419" height="770" key="GridCell.Tab.0.right" timestamp="1585161150957">
+      <screen x="2560" y="-853" width="1440" height="2520" />
+    </state>
+    <state width="1419" height="770" key="GridCell.Tab.0.right/0.0.2560.1400/2560.-853.1440.2520@2560.-853.1440.2520" timestamp="1585161150957" />
+  </component>
+</project>
